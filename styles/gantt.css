@@ -1,0 +1,12 @@
+#ganttContainer * {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#ganttContainer {
+    overflow-x: scroll;
+    width: 200%;
+}
+
+.mermaid .grid .tick {
+	color: lightgray;
+}
